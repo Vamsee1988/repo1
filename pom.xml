@@ -29,6 +29,8 @@
 	  
     <tag>HEAD</tag>
   </scm>
+	
+	<h1>Test Page</h1>
 	<!-- Remote changes-->
 	<!-- Add Nexus server details -->
 	<distributionManagement>
